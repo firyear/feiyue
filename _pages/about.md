@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student majoring in Mathematics and Applied Mathematics at Fudan University, with an additional coursework track in Statistics. 
+I am currently a first-year graduate student in the Probability and Mathematical Statistics program at the School of Mathematical Sciences, Fudan University.
 
-I am in the process of completing my bachelor's degree. 
+Under the supervision of Assistant Professor Yao Zhigang,Shanghai Institute for Mathematics and Interdisciplinary Sciences, I am currently conducting research related to deep-learning and manifold fitting.
 
-Under the supervision of Assistant Professor Wang Tiandong, I am currently conducting research related to graph network .
-
-I am actively seeking summer research opportunities and Ph.D. programs. My research interests lie in Statistics, Data Science, Operations Research and Machine Learning.
+My research interests lie in Statistics, Data Science, Operations Research and Machine Learning.
 
 To [CV](https://firyear.github.io/Feiyue.github.io//cv/)
 
