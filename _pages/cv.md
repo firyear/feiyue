@@ -38,6 +38,7 @@ Research experience
 * Shanghai Institute for Mathematics and Interdisciplinary Sciences
 
 * -Under the supervision of Professor Zhigang Yao at the National University of Singapore (NUS), I advanced an independent summer research project. The project aims to leverage deep learning and manifold fitting to mine UK Biobank disease data, investigate latent patterns between NMR features and patients’ diseases, and, on this basis, develop an interactive analytical platform. Furthermore, we aim to extend the utility of manifold fitting methods through this project, particularly for stratifying disease data and matching new data to existing cohorts.
+* 
 More
 ======
 [CV](https://github.com/firyear/Feiyue.github.io/blob/84830005460afd0375dc8e440ebf187bcfa00c35/_pages/Fudan-Mathematics%20and%20applied%20mathematics-PanFeiyue-English%20cv%20.pdf)
