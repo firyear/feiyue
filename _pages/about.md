@@ -13,7 +13,7 @@ Under the supervision of Assistant Professor Yao Zhigang,Shanghai Institute for 
 
 My research interests lie in Statistics, Data Science, Operations Research and Machine Learning.
 
-To [CV](https://firyear.github.io/Feiyue.github.io//cv/)
+To [CV](https://firyear.github.io/feiyue/cv/)
 
 Contact 
 ======
